@@ -1,0 +1,49 @@
+form{
+    border:solid 1px;
+    width: 600px;
+    background-color:wheat ;
+    padding-right: 20px;
+
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin-left: 300px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+}
+input{
+    width:200 px;
+    height:30px;
+    outline: none;
+    border-radius: 10%;
+
+}
+textarea{
+    width: 300px;
+    height: 200px;
+    border: 10%;
+    padding-left: 10%;
+}
+h1{
+    font-size: 40px;
+    
+}
+p{
+    font-size: 20px;
+}
+button{
+    width: 160px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 28px;
+
+}
+button a{
+    color: rgb(55, 143, 211);
+    text-decoration: none;
+}
+body{
+    background-image: linear-gradient(purple,blueviolet,white);
+}
